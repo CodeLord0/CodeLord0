@@ -3,10 +3,10 @@
 
 <!--CodeLord0/CodeLord0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on learning C# code
+- 🔭 I’m currently working...
 - 🌱 I’m currently learning C#
 - 👯 👯 I’m looking to collaborate with anyone who’s learning to code and wants to build small projects together.
-- 🤔 I’m looking for help with nothing for now
+- 🤔 I’m looking for help with...
 - 💬 Ask me about my journey or anything
 - 📫 How to reach me: https://discordapp.com/users/1165274307996418198
 - 😄 Pronouns: Code/Lord
