@@ -3,8 +3,8 @@
 
 <!--CodeLord0/CodeLord0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on a game called PongReborn
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Ai and Machine Learning
 - 👯 👯 I’m looking to collaborate with anyone who’s learning to code and wants to build small projects together.
 - 🤔 I’m looking for help with...
 - 💬 Ask me about my journey or anything
