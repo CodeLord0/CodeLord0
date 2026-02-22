@@ -1,18 +1,17 @@
 <div align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/CodeLord0">
-    <img height="250" src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=donut&langs_count=5&theme=shadow_red" alt="Top Languages" />
-  </a>
-  <!-- GitHub Stats -->
-  <a href="https://github.com/CodeLord0">
-    <img height="170" src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=shadow_blue" alt="GitHub Stats" />
+  <!-- Codewars -->
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="130" alt="Codewars Stats" />
   </a>
 
   <br/>
 
-  <!-- Codewars -->
-  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img height="120" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="150" alt="Codewars Stats" />
+  <!-- Stats and Top Languages side by side -->
+  <a href="https://github.com/CodeLord0">
+    <img height="150" src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=donut&langs_count=5&theme=blue-green" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/CodeLord0">
+    <img height="150" src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=blue-green" alt="GitHub Stats" />
   </a>
 </div>
 
