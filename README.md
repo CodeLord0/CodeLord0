@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=shadow_red" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=donut&langs_count=5&theme=shadow_red" height="150" alt="Top Languages" />
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=shadow_blue" height="150" alt="GitHub stats" />
