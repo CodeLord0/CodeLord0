@@ -1,26 +1,16 @@
 <h2 align="left">Hi 👋! I'm Tristan, a student still learning to code</h2>
 
 <div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=nightowl" height="150" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=nightowl" height="150" alt="GitHub stats" />
+
   <!-- Codewars -->
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
     <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="150" alt="Codewars Stats" />
   </a>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=onedark" height="150" alt="GitHub stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
-</div>
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV6MHpjdDBtY2trdjdmYXZyNnQ3ZXV1ZGdpY2hnZG1xYnB6OHk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeMuFtgh9g9T8ulU8p/giphy.gif" />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".net logo" />
 </div>
 
 <hr/>
