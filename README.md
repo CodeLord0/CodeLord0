@@ -7,7 +7,7 @@
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeLord0&show_icons=true&theme=dark" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-six-mu-35.vercel.app//api?username=CodeLord0&show_icons=true&theme=dark" height="150" alt="GitHub stats" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
