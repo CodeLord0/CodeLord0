@@ -1,17 +1,22 @@
-<h2 align="left">Hi 👋! I'm Tristan, a student still learning to code</h2>
-
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=donut&langs_count=5&theme=shadow_red" height="150" alt="Top Languages" />
-
+  <a href="https://github.com/CodeLord0">
+    <img height="250" src="https://github-readme-stats-eta-five-50.vercel.app/api/top-langs?username=CodeLord0&layout=donut&langs_count=5&theme=shadow_red" alt="Top Languages" />
+  </a>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=shadow_blue" height="150" alt="GitHub stats" />
+  <a href="https://github.com/CodeLord0">
+    <img height="170" src="https://github-readme-stats-eta-five-50.vercel.app/api?username=CodeLord0&show_icons=true&theme=shadow_blue" alt="GitHub Stats" />
+  </a>
+
+  <br/>
 
   <!-- Codewars -->
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="150" alt="Codewars Stats" />
+    <img height="120" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="150" alt="Codewars Stats" />
   </a>
 </div>
+
+
 
 <hr/>
 
