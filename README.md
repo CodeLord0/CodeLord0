@@ -7,10 +7,10 @@
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-six-mu-35.vercel.app//api?username=CodeLord0&show_icons=true&theme=dark" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats-six-mu-35.vercel.app/api?username=CodeLord0&show_icons=true&theme=onedark" height="150" alt="GitHub stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-mu-35.vercel.app/api/top-langs?username=CodeLord0&layout=compact&langs_count=5&theme=dark" height="150" alt="Top Languages" />
 </div>
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamV6MHpjdDBtY2trdjdmYXZyNnQ3ZXV1ZGdpY2hnZG1xYnB6OHk5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TeMuFtgh9g9T8ulU8p/giphy.gif" />
