@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Codewars -->
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=dark" height="130" alt="Codewars Stats" />
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeLord0&theme=halloween" height="130" alt="Codewars Stats" />
   </a>
 
   <br/>
